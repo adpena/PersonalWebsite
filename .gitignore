@@ -1,0 +1,29 @@
+# PyCharm project files
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Backup files from editors
+*.bak
+*.orig
+*.~*
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Sass cache
+.sass-cache/
+
+# Minified files (optional)
+*.min.css
+*.min.js
+
+# Python virtual environment (if applicable)
+venv/
